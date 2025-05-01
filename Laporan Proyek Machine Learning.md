@@ -141,6 +141,8 @@ book_recommendations('The Notebook')
 | 3    | The Rescue            | Nicholas Sparks   | Warner Books    |
 | 4    | Nights in Rodanthe    | Nicholas Sparks   | Warner Books    |
 | 5    | The Guardian          | Nicholas Sparks   | Warner Books    |
+
+
 Rekomendasi ini menunjukkan bahwa buku-buku yang direkomendasikan semuanya ditulis oleh Nicholas Sparks, yang sama dengan pengarang dari buku "The Notebook". Dengan demikian, dapat dikatakan bahwa semua rekomendasi ini relevan dengan preferensi pengguna.
 
 ### Collaborative Filtering
@@ -215,6 +217,8 @@ book_recommendations('The Notebook')
 | 3    | The Rescue            | Nicholas Sparks   | Warner Books    |
 | 4    | Nights in Rodanthe    | Nicholas Sparks   | Warner Books    |
 | 5    | The Guardian          | Nicholas Sparks   | Warner Books    |
+
+
 Semua buku yang direkomendasikan memiliki pengarang yang sama dengan buku yang dicari (Nicholas Sparks), yang berarti rekomendasi ini sangat relevan dengan preferensi pengguna.
 - True Positives (TP) = 5 (semua buku yang direkomendasikan relevan).
 - False Positives (FP) = 0 (tidak ada buku yang tidak relevan).
